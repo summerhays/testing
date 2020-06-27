@@ -1,2 +1,3 @@
-- hi: alert.md
-- there: word.md
+en: 
+- link: alert.md
+- link: word.md
